@@ -1,0 +1,14 @@
+{
+  "name": "react-native-collapsible-tabs",
+  "version": "1.0.2",
+  "author": "Alan Saracho <saracho.alan@gmail.com>",
+  "license": "MIT",
+  "main": "index.js",
+  "dependencies": {
+    "lodash": "^4.17.11"
+  },
+  "peerDependencies": {
+    "react-native-snap-carousel": "^3.8.0",
+    "react-native-material-tabs": "^3.8.1"
+  }
+}
